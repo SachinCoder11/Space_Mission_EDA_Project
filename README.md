@@ -1,4 +1,4 @@
-# Space Mission Analysis — Project Review
+# Space Mission Analysis - Project Review
 
 ## 1. Executive summary
 
